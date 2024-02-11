@@ -1,2 +1,2 @@
-# Chandrakanth Arra Resume
+# Chandrakanth Arra
 This is an personal website

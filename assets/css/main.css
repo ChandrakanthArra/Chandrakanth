@@ -37,7 +37,7 @@ iframe {border: 0;outline: none;}
 img {max-width: 100%;border: none;outline: none;height: auto;}
 input,textarea {border-radius: 0;resize: none;}
 ul {padding: 0;margin: 0;}
-@font-face {
+font-face {
 font-family: 'DM Serif Display', serif;
 font-family: 'Poppins', sans-serif;}
 input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {background-color: transparent;background-image: none;color:#000;}
